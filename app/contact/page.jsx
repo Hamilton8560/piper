@@ -19,7 +19,7 @@ const info = [
   {
     icon: <FaWhatsapp />,
     title: "WhatsApp",
-    description: "(+40) 813 473 2319", // Replace with your WhatsApp number
+    description: "(+1) 813 473 2319", // Replace with your WhatsApp number
   },
   {
     icon: <FaEnvelope />,
