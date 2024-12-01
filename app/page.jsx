@@ -37,7 +37,7 @@ const Home = () => {
           <div className="text-center xl:text-left order-2 xl:order-none">
             <span className="text-xl">Fitness Coach</span>
             <h1 className="h1 mb-6">
-              Welcome! I&apos;m <br /> <span className="text-accent">Zumrod Tebra</span>
+              Welcome! I&apos;m <br /> <span className="text-accent">Pyper J </span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
               I&apos;m here to help you reach your fitness goals in a way that&apos;s just right for you! Let&apos;s revive your fitness journey with dynamic, personalized training sessions and tailored fitness programs. We&apos;ll create a plan that&apos;s as unique as you are. Whether you choose a one-on-one session, a tailored program, or my specified workout routine available in my app, Zoomfit, I am here to inspire and motivate you every step of the way. Turn your vision into reality. Your best self is waiting!
