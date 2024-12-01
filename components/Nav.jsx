@@ -21,10 +21,10 @@ const links = [
     name: "contact",
     path: "/contact",
   },
-  {
-    name: "mobile home", // Add a name here for the link
-    path: "/mobile-home", // Ensure the path matches the folder structure
-  },
+  // {
+  //   name: "mobile home", // Add a name here for the link
+  //   path: "/mobile-home", // Ensure the path matches the folder structure
+  // },
 ];
 
 const Nav = () => {
