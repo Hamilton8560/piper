@@ -24,7 +24,7 @@ const info = [
   {
     icon: <FaEnvelope />,
     title: "Email",
-    description: "thugymbotfox@outlook.com", // Replace with your actual email
+    description: "thugymdotfox@outlook.com", // Replace with your actual email
   },
 ];
 
