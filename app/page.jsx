@@ -18,7 +18,9 @@ const Home = () => {
         router.push("/mobile-home"); // Redirect to mobile-specific page if on mobile screen
       }
     };
-
+    const handleClick = () => {
+      alert("Program Under Construction!");
+    };
     // Check screen size on initial render
     handleResize();
 
@@ -44,7 +46,7 @@ const Home = () => {
             </p>
 
             {/* btn and socials */}
-            <div className="flex flex-col xl:flex-row items-center gap-8">
+            {/* <div className="flex flex-col xl:flex-row items-center gap-8">
               <a
                 href="http://program.zumrod.pro/"
                 target="_blank"
@@ -53,7 +55,16 @@ const Home = () => {
               >
                 <span>Start Program</span>
                 <FiDownload className="text-xl" />
-              </a>
+              </a> */}
+
+<div className="flex flex-col xl:flex-row items-center gap-8">
+              <button
+                onClick={handleClick}
+                className="uppercase flex items-center gap-2 px-4 py-2 border border-accent text-accent hover:bg-accent hover:text-white transition-all duration-500"
+              >
+                <span>Start Program</span>
+                <FiDownload className="text-xl" />
+              </button>
               <div className="mb-8 xl:mb-0">
                 <Social
                   containerStyles="flex gap-6"
