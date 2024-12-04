@@ -25,8 +25,8 @@ const info = [
   {
     icon: <FaEnvelope />,
     title: "Email",
-    description: "thugymdotfox@outlook.com", // Replace with your actual email
-    link: "mailto:thugymdotfox@outlook.com", // Link for email
+    description: "thugym.fox@outlook.com", // Replace with your actual email
+    link: "mailto:thugym.fox@outlook.com", // Link for email
   },
 ];
 
